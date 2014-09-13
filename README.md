@@ -4,7 +4,7 @@ TODO: Write a gem description
 
 ## Installation
 
-gmail client for the REST API released summer or 2014
+gmail client for the REST API released summer of 2014
 
 Add this line to your application's Gemfile:
 
@@ -30,4 +30,3 @@ TODO: Write usage instructions here
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
 
->>>>>>> b774c6f0ca95ad303a77133bd9fe7e29f90f393d
