@@ -1,0 +1,15 @@
+language: ruby
+cache: bundler
+
+rvm:
+  - mri
+  - 2.1.1
+
+script: 'bundle exec rake'
+
+notifications:
+  email:
+    recipients:
+      - carl@wdwhub.net
+    on_failure: change
+    on_success: never
